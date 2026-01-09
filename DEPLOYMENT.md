@@ -38,7 +38,7 @@ git add .
 git commit -m "Initial commit: AI 퍼스널 컬러 진단 POC"
 
 # GitHub 저장소 연결 (YOUR_USERNAME을 본인의 GitHub 사용자명으로 변경)
-git remote add origin https://github.com/YOUR_USERNAME/personal-color-ai.git
+git remote add origin https://github.com/soobin10236/personal-color-ai.git
 
 # 기본 브랜치 이름을 main으로 설정
 git branch -M main

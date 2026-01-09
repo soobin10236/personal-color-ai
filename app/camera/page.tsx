@@ -91,6 +91,7 @@ export default function CameraPage() {
                         videoConstraints={videoConstraints}
                         onUserMedia={handleUserMedia}
                         onUserMediaError={handleUserMediaError}
+                        mirrored={true}
                         className="absolute inset-0 w-full h-full object-cover"
                     />
 
